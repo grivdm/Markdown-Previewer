@@ -1,0 +1,14 @@
+// @import "/node_modules/bootstrap/scss/bootstrap";
+@import "/node_modules/bootstrap/scss/functions";
+@import "/node_modules/bootstrap/scss/variables";
+@import "/node_modules/bootstrap/scss/mixins";
+
+// Tables
+@import "/node_modules/bootstrap/scss/_tables";
+
+table {
+  @extend .table-striped;
+  @extend .table-bordered;
+  @extend .table-hover;
+  @extend .table-sm;
+}
