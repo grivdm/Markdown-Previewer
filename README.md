@@ -5,7 +5,7 @@ __for [FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-development-li
 [Click](https://grivdm.github.io/Markdown-Previewer/)
 _(for better experience, close test bar)_  
 
-This project allows users to write markdown text in a text editor and preview the output in real-time. The application is useful for writers, bloggers, and anyone who wants to create well-formatted documents quickly and easily. It was built using React and Bootstrap.
+This project allows users to write markdown text in a text editor and preview the output in real-time. The application is useful for writers, bloggers, and anyone who wants to create well-formatted documents quickly and easily. It was built using __React__, __Redux-Toolkit__ and __Bootstrap__.
 
 ## Usage  
 
