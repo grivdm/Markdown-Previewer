@@ -31,7 +31,7 @@ function sum (x, y) {
 }
 \`\`\`
 
-![Random Animals](https://loremflickr.com/320/240)
+![Random Image](https://picsum.photos/200/300)
 
 
 ---
